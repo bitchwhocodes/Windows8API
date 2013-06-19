@@ -7,9 +7,9 @@
 ----------
 ###Description
 The Instagram Starter Kit uses the Instagram api and illustrates how to use many of the endpoints that do not require authorization. All calls do require a client id however.
-![My image](username.github.com/repository/img/image.png) 
-![My image](username.github.com/repository/img/image1.png) 
-![My image](username.github.com/repository/img/image2.png) 
+![My image](username.github.com/repository/image.png) 
+![My image](username.github.com/repository/image1.png) 
+![My image](username.github.com/repository/image2.png) 
 ###Features
  - Invokes the Instagram API (http://instagram.com/developer/)
  - Enables various endpoints including tags, location, media and popular. 
