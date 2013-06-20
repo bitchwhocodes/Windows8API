@@ -76,7 +76,6 @@
     <Content Include="pages\tags\tags.css" />
     <Content Include="pages\tags\tags.html" />
     <Content Include="pages\tags\tags.js" />
-    <Content Include="readme.md" />
     <None Include="APIMASH_INSTAGRAM_API_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
