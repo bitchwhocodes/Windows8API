@@ -13,7 +13,7 @@ The Foursquare Starter Kit uses the ESPN api and illustrates how to use many of 
 ![My image](image3.png) 
 
 ###Features
- - Invokes the ESPN API (http://developer.espn.com/docs). The good folks over at Mashery suppor this api, so you will need to get a mashery id. 
+ - Invokes the ESPN API (http://developer.espn.com/docs). The good folks over at Mashery support this api, so you will need to get a mashery id. 
  - Enables various endpoints without oAuth - all top news, news, fantasy football, teams, and athletes endpoints 
  - Provides a baseline for a Windows 8 Store App
  - For API documentation, please see https://developer.foursquare.com
